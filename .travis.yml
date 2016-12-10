@@ -6,6 +6,7 @@ sudo: false
 gemfile:
   - gemfiles/activerecord-3.0
   - gemfiles/activerecord-4.0
+  - gemfiles/activerecord-5.0
 rvm:
   - 1.9.3
   - 2.1.1
